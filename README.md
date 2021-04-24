@@ -1,16 +1,11 @@
 # Sudoku
 
-A new Flutter project.
+Sudoku using Neumorphism design
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Images
+![Screenshot_1619253683](https://user-images.githubusercontent.com/54545252/115953200-ae25d080-a507-11eb-846b-22d2a54b4151.png)
+![Screenshot_1619253686](https://user-images.githubusercontent.com/54545252/115953203-afef9400-a507-11eb-88ef-f4bf4d2639ad.png)
+![Screenshot_1619253690](https://user-images.githubusercontent.com/54545252/115953205-b0882a80-a507-11eb-9afd-71a433e5ba79.png)
+![Screenshot_1619253709](https://user-images.githubusercontent.com/54545252/115953206-b1b95780-a507-11eb-8184-ad82bcdb0bbd.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
