@@ -1,4 +1,4 @@
-# sudoku
+# Sudoku
 
 A new Flutter project.
 
